@@ -17,6 +17,7 @@
 		2792E72727E3A53700A19A7B /* Stretch_PawsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2792E72627E3A53700A19A7B /* Stretch_PawsUITestsLaunchTests.swift */; };
 		27A0442F27E8ED1800E28C12 /* Pose.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27A0442E27E8ED1800E28C12 /* Pose.swift */; };
 		27BE93BE27ECE23400FE12C1 /* YogaTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27BE93BD27ECE23400FE12C1 /* YogaTimer.swift */; };
+		27D2E58827EE649500BADEFF /* chime.wav in Resources */ = {isa = PBXBuildFile; fileRef = 27D2E58727EE649500BADEFF /* chime.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		2792E72627E3A53700A19A7B /* Stretch_PawsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stretch_PawsUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		27A0442E27E8ED1800E28C12 /* Pose.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pose.swift; sourceTree = "<group>"; };
 		27BE93BD27ECE23400FE12C1 /* YogaTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YogaTimer.swift; sourceTree = "<group>"; };
+		27D2E58727EE649500BADEFF /* chime.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = chime.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				277803C727E5191200B43035 /* DetailView.swift */,
 				27A0442E27E8ED1800E28C12 /* Pose.swift */,
 				27BE93BD27ECE23400FE12C1 /* YogaTimer.swift */,
+				27D2E58727EE649500BADEFF /* chime.wav */,
 				2792E70D27E3A53700A19A7B /* Assets.xcassets */,
 				2792E70F27E3A53700A19A7B /* Preview Content */,
 			);
@@ -240,6 +243,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				27D2E58827EE649500BADEFF /* chime.wav in Resources */,
 				2792E71127E3A53700A19A7B /* Preview Assets.xcassets in Resources */,
 				2792E70E27E3A53700A19A7B /* Assets.xcassets in Resources */,
 			);
